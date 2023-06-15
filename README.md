@@ -1,4 +1,4 @@
-This is a program that uses socket to interact with a dictionary server which returns definitions for words.
+This is a Java program that uses socket to interact with a dictionary server which returns definitions for words.
 
 To run the program (in your terminal):
 1. Navigate to project
